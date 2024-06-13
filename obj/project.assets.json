@@ -193,24 +193,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\abhishekkumar26\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ggg\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abhishekkumar26\\OneDrive - Nagarro\\Documents\\Git-Practice\\sample-api\\demo_api\\demo_api.csproj",
+      "projectUniqueName": "E:\\Git_Practice\\Sample-dotnet\\demo_api.csproj",
       "projectName": "demo_api",
-      "projectPath": "C:\\Users\\abhishekkumar26\\OneDrive - Nagarro\\Documents\\Git-Practice\\sample-api\\demo_api\\demo_api.csproj",
-      "packagesPath": "C:\\Users\\abhishekkumar26\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abhishekkumar26\\OneDrive - Nagarro\\Documents\\Git-Practice\\sample-api\\demo_api\\obj\\",
+      "projectPath": "E:\\Git_Practice\\Sample-dotnet\\demo_api.csproj",
+      "packagesPath": "C:\\Users\\ggg\\.nuget\\packages\\",
+      "outputPath": "E:\\Git_Practice\\Sample-dotnet\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\abhishekkumar26\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\ggg\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
