@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abhishekkumar26\\OneDrive - Nagarro\\Documents\\Git-Practice\\sample-api\\demo_api\\demo_api.csproj": {}
+    "C:\\Users\\abhishekkumar26\\OneDrive - Nagarro\\Documents\\Git-Practice\\sample-api\\sample-cloned\\demo_api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abhishekkumar26\\OneDrive - Nagarro\\Documents\\Git-Practice\\sample-api\\demo_api\\demo_api.csproj": {
+    "C:\\Users\\abhishekkumar26\\OneDrive - Nagarro\\Documents\\Git-Practice\\sample-api\\sample-cloned\\demo_api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abhishekkumar26\\OneDrive - Nagarro\\Documents\\Git-Practice\\sample-api\\demo_api\\demo_api.csproj",
+        "projectUniqueName": "C:\\Users\\abhishekkumar26\\OneDrive - Nagarro\\Documents\\Git-Practice\\sample-api\\sample-cloned\\demo_api.csproj",
         "projectName": "demo_api",
-        "projectPath": "C:\\Users\\abhishekkumar26\\OneDrive - Nagarro\\Documents\\Git-Practice\\sample-api\\demo_api\\demo_api.csproj",
+        "projectPath": "C:\\Users\\abhishekkumar26\\OneDrive - Nagarro\\Documents\\Git-Practice\\sample-api\\sample-cloned\\demo_api.csproj",
         "packagesPath": "C:\\Users\\abhishekkumar26\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abhishekkumar26\\OneDrive - Nagarro\\Documents\\Git-Practice\\sample-api\\demo_api\\obj\\",
+        "outputPath": "C:\\Users\\abhishekkumar26\\OneDrive - Nagarro\\Documents\\Git-Practice\\sample-api\\sample-cloned\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
